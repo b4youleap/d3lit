@@ -1,0 +1,9 @@
+apiVersion: d3lit/v1alpha1
+kind: Component
+metadata:
+  name: d3lit-starter
+  description: Starter template for a D3lit web app
+spec:
+  type: website
+  lifecycle: experimental
+  owner: new-product-team
