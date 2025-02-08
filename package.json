@@ -1,5 +1,7 @@
 {
   "name": "d3lit",
+  "description": "A simple example of using D3 with Lit",
+  "license": "MIT",
   "private": true,
   "version": "0.0.0",
   "type": "module",
